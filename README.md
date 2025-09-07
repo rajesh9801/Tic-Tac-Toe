@@ -5,6 +5,11 @@ This project demonstrates the use of **CSS Grid** for layout and JavaScript for 
 
 ---
 
+Live Demo
+[Click the link 👉🏻](https://rajesh9801.github.io/Tic-Tac-Toe/)
+
+---
+
 ## 🚀 Features
 - 🟢 3x3 Tic Tac Toe board using **CSS Grid**.  
 - 🟢 Smooth and modern UI with rounded corners & transparent background.  
